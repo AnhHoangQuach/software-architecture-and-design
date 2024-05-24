@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b92c8e86-0b58-4522-b169-0b8b0fb9cf0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/src/main/java/com/sonnees/itemstatusservice/ItemStatusServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/src/main/java/com/sonnees/itemstatusservice/QuotingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/src/main/java/com/sonnees/itemstatusservice/QuotingStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/src/main/java/com/sonnees/itemstatusservice/QuotingStatusDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/src/main/java/com/sonnees/itemstatusservice/QuotingStatusRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/src/main/java/com/sonnees/itemstatusservice/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/ItemStatusService/src/test/java/com/sonnees/itemstatusservice/ItemStatusServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/QuotingServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/QuotingServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/controller/QuotingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/controller/QuotingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/dto/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/dto/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/dto/QuotingDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/dto/QuotingDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/dto/QuotingStatusDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/dto/QuotingStatusDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/entity/Quoting.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/entity/Quoting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/entity/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/entity/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/repository/QuotingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/repository/QuotingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/java/com/sonnees/quotingservice/service/QuotingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/java/com/sonnees/quotingservice/service/QuotingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/QuotingService/src/test/java/com/sonnees/quotingservice/QuotingServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuotingService/src/test/java/com/sonnees/quotingservice/QuotingServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/src/main/java/com/sonnees/customerserviceinterface/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/src/main/java/com/sonnees/customerserviceinterface/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/src/main/java/com/sonnees/customerserviceinterface/quoting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/src/main/java/com/sonnees/customerserviceinterface/status.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerServiceInterface/src/test/java/com/sonnees/customerserviceinterface/CustomerServiceInterfaceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/main/java/com/sonnees/accountingservice/Accounting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/main/java/com/sonnees/accountingservice/AccountingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/main/java/com/sonnees/accountingservice/AccountingDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/main/java/com/sonnees/accountingservice/AccountingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/main/java/com/sonnees/accountingservice/AccountingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/main/java/com/sonnees/accountingservice/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/main/java/com/sonnees/accountingservice/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/AccountingService/src/test/java/com/sonnees/accountingservice/AccountingServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/src/main/java/com/sonnees/receivingandaccountinguserinterface/ReceivingAndAccountingUserInterfaceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/src/main/java/com/sonnees/receivingandaccountinguserinterface/accounting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/src/main/java/com/sonnees/receivingandaccountinguserinterface/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingAndAccountingUserInterface/src/test/java/com/sonnees/receivingandaccountinguserinterface/ReceivingAndAccountingUserInterfaceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/main/java/com/sonnees/assessmentservice/Assessment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/main/java/com/sonnees/assessmentservice/AssessmentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/main/java/com/sonnees/assessmentservice/AssessmentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/main/java/com/sonnees/assessmentservice/AssessmentServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/main/java/com/sonnees/assessmentservice/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/main/java/com/sonnees/assessmentservice/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/main/java/com/sonnees/assessmentservice/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/AssessmentService/src/test/java/com/sonnees/assessmentservice/AssessmentServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/main/java/com/sonnees/receivingservice/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/main/java/com/sonnees/receivingservice/Receiving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/main/java/com/sonnees/receivingservice/ReceivingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/main/java/com/sonnees/receivingservice/ReceivingDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/main/java/com/sonnees/receivingservice/ReceivingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/main/java/com/sonnees/receivingservice/ReceivingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/main/java/com/sonnees/receivingservice/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/ReceivingService/src/test/java/com/sonnees/receivingservice/ReceivingServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/src/main/java/com/sonnees/receivinguserinterface/ReceivingUserInterfaceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/src/main/java/com/sonnees/receivinguserinterface/assessment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/src/main/java/com/sonnees/receivinguserinterface/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/src/main/java/com/sonnees/receivinguserinterface/receiving.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReceivingUserInterface/src/test/java/com/sonnees/receivinguserinterface/ReceivingUserInterfaceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/CustomerServiceInterface">
+      <ProjectState>
+        <option name="isInclusion" value="true" />
+      </ProjectState>
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ReceivingAndAccountingUserInterface">
+      <ProjectState>
+        <option name="isInclusion" value="true" />
+      </ProjectState>
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ReceivingUserInterface">
+      <ProjectState>
+        <option name="isInclusion" value="true" />
+      </ProjectState>
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/CustomerServiceInterface">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/CustomerServiceInterface/item-status-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/CustomerServiceInterface/quoting-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/ReceivingUserInterface">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gtZ0cm2unyFhvcze4eww9BJuAe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.QuotingServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle./Users/quachhoanganh/FREELANCER/java/software-architecture-and-design/QuotingService/build.gradle.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build ReceivingUserInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface [bootJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface [bootRun].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface [bootTestRun].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface:item-status-service [buildEnvironment].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface:item-status-service [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface:item-status-service [projects].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface:item-status-service [properties].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CustomerServiceInterface:item-status-service [tasks].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ReceivingUserInterface [bootRun].executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.status.html.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ReceivingUserInterfaceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/quachhoanganh/FREELANCER/java/software-architecture-and-design&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reactor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QuotingServiceApplication">
+    <configuration name="QuotingServiceApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sonnees.quotingservice.QuotingServiceApplication" />
+      <module name="software-architecture-and-design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sonnees.quotingservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceInterface [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CustomerServiceInterface" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerServiceInterface:item-status-service [buildEnvironment]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CustomerServiceInterface/item-status-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildEnvironment" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerServiceInterface:item-status-service [projects]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CustomerServiceInterface/item-status-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="projects" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerServiceInterface:item-status-service [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CustomerServiceInterface/item-status-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tasks" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReceivingUserInterface [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ReceivingUserInterface" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReceivingAndAccountingUserInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ReceivingAndAccountingUserInterface.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sonnees.receivingandaccountinguserinterface.ReceivingAndAccountingUserInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceivingUserInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ReceivingUserInterface.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sonnees.receivinguserinterface.ReceivingUserInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CustomerServiceInterface [bootRun]" />
+        <item itemvalue="Gradle.CustomerServiceInterface:item-status-service [tasks]" />
+        <item itemvalue="Gradle.CustomerServiceInterface:item-status-service [buildEnvironment]" />
+        <item itemvalue="Gradle.ReceivingUserInterface [bootRun]" />
+        <item itemvalue="Gradle.CustomerServiceInterface:item-status-service [projects]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b92c8e86-0b58-4522-b169-0b8b0fb9cf0d" name="Changes" comment="" />
+      <created>1716518613415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716518613415</updated>
+      <workItem from="1716518614395" duration="173000" />
+      <workItem from="1716518812514" duration="364000" />
+      <workItem from="1716519236498" duration="7498000" />
+      <workItem from="1716537766003" duration="3494000" />
+      <workItem from="1716570553504" duration="281000" />
+      <workItem from="1716571032918" duration="111000" />
+      <workItem from="1716571166851" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
